@@ -1,3 +1,23 @@
+
+### 🎯 Current Goals
+
+  🔭 I'm currently working on Full Stack Developer
+  
+  🌱 I'm currently learning `Emerging` Technology
+  
+  👯 I'm looking to collaborate on Open Source Projects
+  
+  🤔 I'm looking for help with `Full Stack` Developer
+  
+  💬 Ask me about VUE, React, Web Development
+  
+  📫 How to reach me: `lrsm0327@gmail.com`
+  
+  ⚡ Fun fact: Games, Sports, Fitness, Sanda
+
+
+
+
 <div align="center">
   <hr style="border: 1px solid #eee; width: 80%;"/>
 
