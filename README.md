@@ -4,13 +4,10 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=lrsm21427&row=1&margin-w=10&theme=light_lover)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
   
-<div align="left">
+<div align="center">
   <hr style="border: 1px solid #eee; width: 80%;"/>
 
   ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen) 
-</div>
-<div align="right">
-
   [![GitHub Streak](https://streak-stats.demolab.com/?user=lrsm21427&theme=light)](https://git.io/streak-stats)
 </div>
 
