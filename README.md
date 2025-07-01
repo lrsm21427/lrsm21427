@@ -30,12 +30,6 @@
   ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrsm21427&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div align="center">
-  <hr style="border: 1px solid #eee; width: 80%;"/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lrsm21427&left_color=green&right_color=red)
-</div>
-
 <div>
   <hr style="border: 1px solid #eee; width: 80%;"/>
 
