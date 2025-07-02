@@ -15,6 +15,12 @@
   
   ⚡ Fun fact: Games, Sports, Fitness, Sanda
 
+
+<div align="center">
+  <hr style="border: 1px solid #eee; width: 80%;"/>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lrsm21427&row=1&margin-w=10&theme=light_lover)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
   
 <div align="center">
   <hr style="border: 1px solid #eee; width: 80%;"/>
