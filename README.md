@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=700&lines=Hi%2C+I'm+RayB!;🔭+I'm+currently+working+on+Full+Stack+Developer)](https://git.io/typing-svg)
+
 ### 🎯 Current Goals
 
   🔭 I'm currently working on Full Stack Developer
